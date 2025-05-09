@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @priyanshinair
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on a web development project
+
 - 📫 How to reach me ...mail me : nairpriyanshi047@gmail.com
 
 <!---
